@@ -1,0 +1,1070 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.voice.shahum.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2685                
+POS_VISITOR 42299               
+POS_DAY 44029               
+POS_DOMAIN 3561                
+POS_LOGIN 3797                
+POS_ROBOT 3952                
+POS_WORMS 4400                
+POS_EMAILSENDER 4531                
+POS_EMAILRECEIVER 4674                
+POS_SESSION 44511               
+POS_SIDER 44709               
+POS_FILETYPES 4809                
+POS_DOWNLOADS 5135                
+POS_OS 5757                
+POS_BROWSER 5908                
+POS_SCREENSIZE 6385                
+POS_UNKNOWNREFERER 6459                
+POS_UNKNOWNREFERERBROWSER 6637                
+POS_ORIGIN 6769                
+POS_SEREFERRALS 6911                
+POS_PAGEREFS 7055                
+POS_SEARCHWORDS 7237                
+POS_KEYWORDS 7389                
+POS_MISC 2346                
+POS_ERRORS 7448                
+POS_CLUSTER 3653                
+POS_SIDER_404 7618                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150727222232 1367 370076 20608515030562
+FirstTime 20150713083547
+LastTime 20150727221722
+LastUpdate 20150728000458 1367 0 1367 0 0
+TotalVisits 176                 
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1344 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 145732 32 36 175165
+1 0 0 0 36 56 317995
+2 20 20 227191 39 42 231060
+3 0 0 0 271 329 1736161
+4 10 10 83503 27 28 153400
+5 0 0 0 25 25 126074
+6 24 24 265173 18 37 194459
+7 0 0 0 16 18 102088
+8 653 1580 11147682 172 1213 5155726
+9 884 4601 7003681 176 379 32755864
+10 1437 6106 17751468 142 454 13976172
+11 1549 6839 16133980 152 414 4312622
+12 1184 5286 19317276 106 278 339682
+13 1089 5309 11469355 211 470 16470360
+14 1277 5186 29452664 107 468 41908773
+15 833 3813 11378579 97 251 44136318
+16 1023 4313 28031728 79 703 10197600
+17 1128 3826 25016632 155 728 2952255
+18 153 262 2789206 24 49 2795499
+19 62 62 36516 29 43 295105
+20 25 25 235977 28 35 244331
+21 12 115 2476480 28 48 813847
+22 22 49 1822056 49 53 217804
+23 0 0 0 28 30 129967
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 11401 47442 184784879
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 522 9975907 20150727180724 16
+no_user_agent 117 149760300 20150727151752 0
+wordpress 100 30085 20150727113227 0
+facebook 24 4043773 20150727160805 0
+bot[\s_+:,\.\;\/\\-] 4 121383 20150725111027 0
+scanner 3 95725 20150723141453 0
+commons\-httpclient 2 4648 20150713131820 0
+favicon 2 14804 20150727144401 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 13504 16664627 0 0
+png 4725 29277767 0 0
+woff 54 980195 0 0
+woff2 613 1462795 0 0
+map 2 283902 0 0
+php 8068 71980583 0 0
+zip 1 57702 0 0
+html 2664 17588428 0 0
+js 14409 7871526 0 0
+jpg 2793 36739519 0 0
+svg 11 19967 0 0
+xls 1 1550520 0 0
+gif 597 307348 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/wp-content/uploads/2015/07/Premium1-23.07.2015_compared2.csv 92 0 119062168
+/robots.txt 16 0 6240
+/wp-content/uploads/2015/07/Premium1-23.07.2015_compared1.csv 16 0 20706464
+/wp-content/uploads/2015/07/Standard-Full-price-list-05.07.2015_compared.csv 8 0 9990320
+/wp-content/uploads/2015/07/Premium1-23.07.2015_compared2.xls 1 0 3318073
+/wp-content/uploads/2015/07/Standard-Full-price-list-05.07.2015_compared.xls 1 0 3346233
+/wp-content/uploads/2015/07/Premium1-23.07.2015_compared.xls 1 0 1550520
+/wp-content/plugins/sh-newsletter/uploads/sh-newsletter.1.0.zip 1 0 57702
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+linuxandroid 237
+winlong 1
+winxp 32
+java 3
+linuxubuntu 115
+linux 1
+winvista 81
+win7 46621
+macosx 348
+Unknown 3
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 26
+msie6.0 12
+firefox3.0.16 115
+android 88
+firefox4.0 7
+chrome39.0.2171.95 2
+opera9.00 3
+firefox34.0 7
+safari8.0.7 30
+chrome43.0.2357.132 10194
+safari5.1.7 40
+opera9.20 1
+chrome44.0.2403.107 539
+netscape5.0 3
+msie7.0 6
+chrome44.0.2403.89 4494
+firefox6.0 6
+chrome43.0.2357.93 91
+chrome39.0.2171.99 1
+safari8.0 222
+chrome43.0.2357.134 31303
+chrome33.0.1750.146 115
+msie9.0 4
+chrome43.0.2357.92 58
+Unknown 3
+safari 96
+firefox11.0 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20150721094150
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Apache-HttpClient/4.3.5_(java_1.5) 20150723141545
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 711 718
+From1 0 0
+From2 0 0
+From3 5 5
+From4 10685 46719
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://l.facebook.com/lsr.php 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 4 7347
+302 759 752111
+206 40 607847
+400 3 1419
+500 23 24194
+301 50 25849
+404 3161 13873241
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 560
+/wp-content/uploads/2013/11/31.jpg 1 -
+/wp-content/themes/shmedia/css/img/button_right_1.jpg 20 http://voice.shahum.net/wp-content/themes/shmedia/css/style.css
+/wp-content/uploads/2015/03/img151-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-24/index.html 1 -
+/portfolio/portfolio-item-15/index.html 1 -
+/error-500-integrated/ 1 -
+/wp-content/uploads/2015/03/e_img121-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/support-center/index.html 1 -
+/portfolio/portfolio-item-4/index.html 1 -
+/wp-content/uploads/2015/03/w51-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/aw1.png 3 http://voice.shahum.net/
+/wp-content/uploads/2015/03/e-mac1-150x150.png 1 http://voice.shahum.net/wp-admin/upload.php
+/faq-option-1/ 1 -
+/calling-cards/ 1 http://voice.shahum.net/voicebuy-mobile-dialer/
+/portfolio/portfolio-item-2/index.html 1 -
+/portfolio/portfolio-item-1/index.html 1 -
+/wp-content/uploads/2015/03/e_img21.jpg 3 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/js/jquery.mixitup.min.js 2 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/uploads/2015/03/img061-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/glossary/index.html 1 -
+/contact-option-1/index.html 1 -
+/pricing-box/index.html 1 -
+/wp-content/uploads/2015/03/team1-150x150.jpg 11 http://voice.shahum.net/wp-admin/upload.php
+/portfolio-sidebar-filters/ 8 -
+/wp-content/uploads/2015/03/e_img41.jpg 8 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img191-150x150.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/pre21.png 3 http://voice.shahum.net/
+/wp-content/uploads/2015/03/img061.jpg 1 -
+/wp-content/uploads/2015/03/mac1-150x150.png 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/100x1001.png 1 -
+/wp-content/uploads/2015/03/avatar3701-80x80.jpg 11 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img241-150x150.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w121-150x150.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/css/style-.css 81 http://voice.shahum.net/
+/e-commerce-filters/ 1 -
+/wp-content/themes/Artificial-Reason-WP/css/yamm.css 313 http://voice.shahum.net/collapses-tabs/
+/wp-content/uploads/2015/03/w41-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/choose-places-to-visit-this-holiday-season/index.html 1 -
+/free-hosted-pbx/index.html 2 http://voice.shahum.net/free-hosted-pbx/
+/portfolio-with-captions/index.html 1 -
+/wp-content/uploads/2015/03/aw2.png 3 http://voice.shahum.net/
+/wp-content/uploads/2015/03/e_macbook1-150x150.png 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/img/favicon.png 1 -
+/wp-content/uploads/2015/03/w81.jpg 7 -
+/small-business-voip/ 2 -
+/wp-content/uploads/2015/03/w31.jpg 6 http://voice.shahum.net/site-map/
+/the-telecommunications-revolution-comes-to-the-big-city/ 7 -
+/wp-content/uploads/2015/03/office21.jpg 7 http://voice.shahum.net/site-map/
+/wp-content/uploads/2015/03/maxis1-150x150.png 10 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w121-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/components-dropdowns/css_blockquotes.html 1 -
+/wp-content/uploads/2013/11/61-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-13/index.html 1 -
+/our-team-option-1/index.html 1 -
+/wp-content/uploads/2015/03/e_product41-300x300.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-13/ 1 -
+/sports-at-sea-a-great-choice-for-the-whole-family/index.html 1 -
+/the-best-places-for-diving/ 7 -
+/wp-content/uploads/2015/03/samsung1-150x150.png 5 http://voice.shahum.net/wp-admin/upload.php
+/contact-option-1/ 7 -
+/sydney-opera-hosts-the-greatest-show-ever-created/index.html 1 -
+/about-us/index.html 1 -
+/paginations/index.html 1 -
+/faq-option-2/ 1 -
+/products-and-routing-plans/premium/index.html 1 -
+/wp-content/uploads/2015/03/office31.jpg 8 -
+/error-404-integrated/ 1 -
+/wp-content/uploads/2015/03/pre31.png 3 http://voice.shahum.net/
+/basic-buttons/index.html 1 -
+/social-buttons/icons_social.html 1 -
+/support-center/ 8 -
+/labels-and-badges/index.html 1 -
+/wp-content/uploads/2013/11/41-760x405.jpg 1 -
+/wp-content/uploads/2015/03/e_img131-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2013/11/16-150x150.jpg 14 http://voice.shahum.net/wp-admin/upload.php
+/nadal-win-roland-garros/index.html 1 -
+/our-team-option-1/ 8 -
+/wp-content/themes/Artificial-Reason-WP/css/font-awesome.min.css 2 http://voice.shahum.net/products-and-routing-plans/voicebuy-mix/
+/wp-content/uploads/2015/03/e_iphonec1-150x150.png 2 http://voice.shahum.net/wp-admin/upload.php
+/blog-left-sidebar/ 8 -
+/login-integrated/index.html 1 -
+/wp-content/uploads/2015/03/img021-150x150.jpg 8 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2013/11/41.jpg 1 -
+/contact-option-2/index.html 1 -
+/wp-content/uploads/2015/03/img171-360x240.jpg 17 http://voice.shahum.net/contact-us/
+/wp-content/uploads/2015/03/t21.jpg 82 http://voice.shahum.net/about-us/
+/charts-countdowns/ 7 -
+/profile-template/ 7 -
+/portfolio/portfolio-item-16/index.html 1 -
+/wp-content/uploads/2015/03/profile1.jpg 1 -
+/category/nature/ 7 -
+/wp-content/uploads/2015/03/t61-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/shmedia/css/img/button_left_over.jpg 5 http://voice.shahum.net/wp-content/themes/shmedia/css/style.css
+/portfolio-with-captions/ 5 -
+/2014/05/page/2/index.html 1 -
+/wp-content/uploads/2015/03/img141-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img201.jpg 1 -
+/wp-content/uploads/2015/03/wf11-150x150.jpg 5 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/css/lightbox.css 2 http://voice.shahum.net/products-and-routing-plans/voicebuy-mix/
+/wp-content/uploads/2013/11/71-760x405.jpg 1 -
+/wp-content/uploads/2015/03/img011.jpg 1 -
+/portfolio-sidebar-filters/index.html 1 -
+/wp-content/uploads/2015/03/img171-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/wf31-150x150.jpg 4 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/pre21-150x150.png 4 http://voice.shahum.net/wp-admin/upload.php
+/blog-left-sidebar/index.html 1 -
+/wp-content/uploads/2015/03/w111.jpg 6 http://voice.shahum.net/site-map/
+/portfolio/portfolio-item-23/ 3 -
+/wp-content/uploads/2015/03/wf31-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img031-150x150.jpg 8 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/css/images/bx_loader.gif 1 http://voice.shahum.net/wp-content/themes/Artificial-Reason-WP/css/jquery.bxslider.css
+/wp-content/themes/Artificial-Reason-WP/img/Leyer.jpg 145 http://voice.shahum.net/about-us/
+/e-commerce-home/ 1 -
+/wp-content/themes/shmedia/fonts/fontawesome-webfont.ttf 1 http://voice.shahum.net/wp-content/themes/shmedia/css/font-awesome.css
+/collapses-tabs/index.html 1 -
+/blog-alternative/index.html 1 -
+/wp-content/uploads/2015/03/t11.jpg 83 http://voice.shahum.net/about-us/
+/our-team/frank-glander/ 1 http://voice.shahum.net/about-us/
+/wp-content/uploads/2015/03/img011-150x150.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/js/app.js 3 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/uploads/2015/03/intel1.png 8 -
+/portfolio/portfolio-item-7/index.html 1 -
+/timeline-left/index.html 1 -
+/wp-content/uploads/2015/03/wf21-150x150.jpg 5 http://voice.shahum.net/wp-admin/upload.php
+/time-to-go-to-the-forest-relax-in-a-forest-dream/ 3 -
+/wp-content/uploads/2015/03/w111-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/user-manuals/ 1 http://voice.shahum.net/how-it-works/
+/wp-content/uploads/2015/03/t31.jpg 82 http://voice.shahum.net/about-us/
+/components-dropdowns/ 1 -
+/pricing-mega-table/ 1 -
+/blog/page/2/index.html 1 -
+/portfolio/portfolio-item-14/ 2 -
+/gran-canaria-has-the-best-climate-in-the-world-according-to-a-u-s-university/ 7 -
+/wp-content/uploads/2015/03/e_img081-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/category/sports/index.html 1 -
+/wp-content/uploads/2013/11/71-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/blockquotes/ 10 -
+/voicebuy-mobile-dialer/index.html 1 -
+/category/travels/index.html 1 -
+/wp-content/themes/shmedia/fonts/fontawesome-webfont.woff 1 http://voice.shahum.net/wp-content/themes/shmedia/css/font-awesome.css
+/portfolio/portfolio-item-15/ 1 -
+/typography/index.html 1 -
+/option-2-services/ 7 -
+/trackback/ 4 http://voice.shahum.net/
+/social-icons/index.html 1 -
+/wp-content/uploads/2015/03/avatar2301-80x80.jpg 11 http://voice.shahum.net/wp-admin/upload.php
+/the-telecommunications-revolution-comes-to-the-big-city/index.html 1 -
+/category/sports/ 5 -
+/progress-bars/index.html 1 -
+/did-numbers/index.html 1 -
+/category/sports/diving/index.html 1 -
+/about-us-team/ 7 -
+/about-us-option-1/index.html 1 -
+/products-and-routing-plans/premium-2/index.html 1 -
+/wp-content/uploads/2015/03/office11-150x150.jpg 8 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/pre31-300x199.png 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w13-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img101-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img041-150x150.jpg 8 http://voice.shahum.net/wp-admin/upload.php
+/gran-canaria-has-the-best-climate-in-the-world-according-to-a-u-s-university/index.html 1 -
+/wp-content/uploads/2013/11/81-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/voice/arrow.jpg 1 http://voice.shahum.net/products-and-routing-plans/premium/
+/option-6-professional-profile/index.html 1 -
+/wp-content/uploads/2015/03/n11-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/ipad1-300x200.png 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img061-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/2013/11/index.html 1 -
+/wp-content/uploads/2015/03/wf21-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-12/index.html 1 -
+/blog-full/index.html 1 -
+/wp-content/uploads/2015/03/e_img071-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img181-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/contact-option-2/ 8 -
+/wp-content/uploads/2015/03/intel1-150x150.png 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/nokia1-150x150.png 5 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w31-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-3/index.html 1 -
+/testimonials/ 6 -
+/portfolio/portfolio-item-14/index.html 1 -
+/wp-content/uploads/2015/03/office41-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/category/news/index.html 1 -
+/wp-content/themes/Artificial-Reason-WP/css/bootstrap-switch.min.css 2 http://voice.shahum.net/products-and-routing-plans/voicebuy-mix/
+/wp-content/uploads/2015/03/t11-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/plugins/custom-field-suite/assets/js/select2/select2-spinner.gif 20 http://voice.shahum.net/wp-content/plugins/custom-field-suite/assets/js/select2/select2.css
+/wp-content/uploads/2015/03/img181-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w81-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/login-full-page/ 1 -
+/wp-content/uploads/2015/03/e_img011-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2013/11/131.jpg 1 -
+/wp-content/uploads/2015/03/e_img021-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2013/11/141-150x150.jpg 11 http://voice.shahum.net/wp-admin/upload.php
+/know-the-best-deals-on-getaway-for-the-weekend/index.html 1 -
+/option-7-subscribe/ 1 -
+/wp-content/themes/Artificial-Reason-WP/js/circles.min.js 3 http://voice.shahum.net/artificial-reason-icons/
+/vertical-tabs/index.html 1 -
+/wp-content/themes/Artificial-Reason-WP/css/preload.css 1 http://voice.shahum.net/products-and-routing-plans/
+/components-dropdowns/css_forms.html 1 -
+/wp-content/uploads/2015/03/e_img181-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/our-team-option-2/index.html 1 -
+/user-manuals/index.html 1 -
+/wp-content/uploads/2015/03/nokia1.png 7 http://voice.shahum.net/site-map/
+/know-the-best-deals-on-getaway-for-the-weekend/ 7 http://voice.shahum.net/profile-2/
+/products-and-routing-plans/index.html 1 -
+/wp-content/uploads/2015/03/aw3.png 3 http://voice.shahum.net/
+/tooltip-popover/index.html 1 -
+/wp-content/uploads/2015/03/t51.jpg 82 http://voice.shahum.net/about-us/
+/portfolio/portfolio-item-23/index.html 1 -
+/font-awesome/index.html 1 -
+/basic-buttons/ 1 -
+/portfolio/portfolio-item-8/index.html 1 -
+/wp-content/uploads/2013/11/111-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/avatar3701-300x300.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_product31-300x300.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img091-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/shmedia/images/twitter.png 5 -
+/products-and-routing-plans/premium/rate=60 1 -
+/wp-content/uploads/2015/03/e_img071-80x80.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-18/ 1 -
+/social-icons/ 6 -
+/products-and-routing-plans/voicebuy-mix/index.html 1 -
+/a-first-post-in-category-nature/ 8 -
+/products-and-routing-plans/premium/rate=12 1 -
+/wp-content/uploads/2015/03/img121.jpg 1 -
+/wp-content/uploads/2013/11/101-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/portfolio-topbar-filters/index.html 1 -
+/wp-content/uploads/2013/11/101.jpg 1 -
+/timeline-center/index.html 1 -
+/wp-content/themes/voice/arrow_bottom.jpg 1 http://voice.shahum.net/products-and-routing-plans/premium/
+/wp-content/uploads/2015/03/img111-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/social-buttons/index.html 1 -
+/glyphicons-icons/ 5 -
+/option-5-news/index.html 1 -
+/the-best-places-for-diving/index.html 1 -
+/reseller-program/index.html 1 -
+/wp-content/uploads/2015/03/logo_raw_white1.png 1 -
+/portfolio/portfolio-item-10/index.html 1 -
+/wp-content/uploads/2013/11/41-150x150.jpg 14 http://voice.shahum.net/wp-admin/upload.php
+/collapses-tabs/ 1 -
+/wp-content/uploads/2015/03/wf41-150x150.jpg 5 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/img/no_image.png 1 -
+/category/products-and-services/index.html 1 -
+/typography/ 6 -
+/wp-content/uploads/2015/03/w81-150x150.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-11/ 2 -
+/about-us-team/index.html 1 -
+/about-us-option-2/index.html 1 -
+/about-us-option-2/ 7 -
+/glyphicons-icons/index.html 1 -
+/wp-content/uploads/2015/03/office31-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/office41.jpg 7 http://voice.shahum.net/site-map/
+/wp-content/uploads/2015/03/macpro1-300x200.png 1 http://voice.shahum.net/wp-admin/upload.php
+/testimonials/contrary-to-popular-belief-lorem-ipsum-5/ 1 http://voice.shahum.net/wp-admin/edit.php
+/wp-content/uploads/2015/03/e_product31-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img161-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/2014/05/index.html 1 -
+/portfolio/portfolio-item-5/index.html 1 -
+/wp-content/uploads/2013/11/91-760x405.jpg 1 -
+/social-icons/btn_social_buttons.html 2 http://voice.shahum.net/social-icons/
+/wp-content/uploads/2015/03/pre21-300x144.png 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img221.jpg 1 -
+/artificial-reason-icons/icons_awesome.html 1 -
+/cart/index.html 1 -
+/wp-content/uploads/2015/03/ipad1-150x150.png 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/team1-300x103.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/js/holder.js 3 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/uploads/2015/03/e-mac1-300x225.png 1 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-24/ 1 -
+/wp-content/uploads/2015/03/img231-150x150.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img041-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img041-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img131-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/option-5-news/ 6 -
+/timeline-left/ 8 -
+/wp-content/uploads/2015/03/samsung1.png 8 -
+/font-awesome/ 1 -
+/faq-option-2/index.html 1 -
+/category/whats-new/index.html 1 -
+/blockquotes/index.html 1 -
+/wp-content/uploads/2015/03/wf21.jpg 1 -
+/components-dropdowns/css_dividers.html 1 -
+/modals/ 9 -
+/wp-content/themes/Artificial-Reason-WP/js/jquery.min.js 3 http://voice.shahum.net/artificial-reason-icons/
+/components-dropdowns/index.html 1 -
+/wp-content/themes/Artificial-Reason-WP/js/slidebars.js 2 http://voice.shahum.net/artificial-reason-icons/
+/sip-trunk-provider/index.html 1 -
+/wp-content/uploads/2015/03/w21.jpg 6 http://voice.shahum.net/site-map/
+/wp-content/uploads/2015/03/t31-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img101-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/option-1-home-default/index.html 1 -
+/wp-content/uploads/2015/03/pre1.png 4 http://voice.shahum.net/
+/wp-content/uploads/2015/03/wf31.jpg 1 -
+/the-best-cities-to-visit-this-vacation/ 3 -
+/wp-content/themes/Artificial-Reason-WP/css/animate.min.css 1 http://voice.shahum.net/products-and-routing-plans/
+/category/travels/ 8 -
+/wp-content/uploads/2015/03/img211-150x150.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_product11-300x300.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/shmedia/css/img/button_left_1.jpg 20 http://voice.shahum.net/wp-content/themes/shmedia/css/style.css
+/the-final-of-the-champions-will-be-for-madrid/ 6 -
+/wp-content/uploads/2015/03/image-11-300x188.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-11/index.html 1 -
+/tooltip-popover/ 1 -
+/wp-content/uploads/2015/03/e_img031-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img161-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/the-best-cities-to-visit-this-vacation/index.html 1 -
+/assets/js/holder.js/70x70/social 3 http://voice.shahum.net/lists/
+/option-3-full-intro/index.html 1 -
+/wp-content/themes/Artificial-Reason-WP/js/bootstrap.min.js 3 http://voice.shahum.net/artificial-reason-icons/
+/components-dropdowns/css_tables.html 1 -
+/wp-content/uploads/2015/03/macpro1-150x150.png 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/thumb-11-150x150.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/blog-alternative/page/2/index.html 1 -
+/wp-content/uploads/2015/03/e_img51.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/switch-controls/index.html 1 -
+/wp-content/uploads/2015/03/e_macbook1-300x225.png 1 http://voice.shahum.net/wp-admin/upload.php
+/option-1-home-default/ 7 -
+/wp-content/uploads/2015/03/e_img171-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/login-and-register/ 1 -
+/dividers/index.html 1 -
+/wp-content/uploads/2015/03/t51-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/index.html 3 -
+/category/news/ 7 -
+/carousels/index.html 1 -
+/2014/04/index.html 1 -
+/wp-content/themes/Artificial-Reason-WP/css/jquery.bxslider.css 1 http://voice.shahum.net/products-and-routing-plans/
+/wp-content/themes/Artificial-Reason-WP/css/images/controls.png 1 http://voice.shahum.net/wp-content/themes/Artificial-Reason-WP/css/jquery.bxslider.css
+/businesses-signed-big-cities/index.html 1 -
+/wp-content/uploads/2013/11/61-760x405.jpg 1 -
+/wp-content/uploads/2013/11/21-760x259.jpg 1 -
+/switch-controls/ 1 -
+/headers/ 9 -
+/wp-content/uploads/2015/03/pre31-150x150.png 4 http://voice.shahum.net/wp-admin/upload.php
+/coming-soon-option-2/ 8 -
+/charts-countdowns/index.html 1 -
+/sydney-opera-hosts-the-greatest-show-ever-created/ 8 -
+/wp-content/uploads/2015/03/e_img111-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w21-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_product11-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/2014/03/index.html 1 -
+/wp-content/uploads/2015/03/img141.jpg 1 -
+/2015/07/index.html 1 -
+/blog-full/page/2/index.html 1 -
+/wp-content/themes/Artificial-Reason-WP/css/style-blue.css 2 http://voice.shahum.net/products-and-routing-plans/voicebuy-mix/
+/wp-content/uploads/2015/03/hp1-150x150.png 7 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-20/index.html 1 -
+/wp-content/themes/shmedia/images/facebook.png 5 -
+/the-best-places-to-get-away-to-nature/ 5 -
+/about-us-option-1/ 7 -
+/wp-content/themes/Artificial-Reason-WP/css/.css 81 http://voice.shahum.net/
+/our-clients/index.html 1 -
+/e-commerce-home/index.html 1 -
+/wp-content/themes/voice/images/arrow_bottom.jpg 2 -
+/portfolio/portfolio-item-21/index.html 1 -
+/wp-content/uploads/2015/03/image-11-150x150.jpg 5 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-8/ 1 -
+/wp-content/uploads/2015/03/e_iphonec1-300x225.png 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/sony1.png 8 -
+/wp-content/uploads/2015/03/e_img091-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/mac1-300x200.png 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_product31.jpg 1 -
+/product/index.html 1 -
+/option-3-full-intro/ 5 -
+/wp-content/uploads/2015/03/img221-150x150.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/error-404-integrated/index.html 1 -
+/our-team-option-2/ 8 -
+/wp-content/uploads/2015/03/wf41.jpg 1 -
+/calling-cards/index.html 1 -
+/san-francisco-the-city-to-close-big-business/ 6 -
+/voip-carrier-switch-partitioning-solution/index.html 1 -
+/blog-left-sidebar/page/2/index.html 1 -
+/pricing-mega-table/index.html 1 -
+/ourteam/sheldon-cooper/ 1 http://voice.shahum.net/about-us/
+/2014/03/ 1 -
+/wp-content/uploads/2013/11/51-150x150.jpg 13 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img141-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/blog/index.html 1 -
+/faq-option-1/index.html 1 -
+/buttons-library/index.html 1 -
+/wp-content/uploads/2015/03/e_img021-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/option-7-subscribe/index.html 1 -
+/wp-content/themes/Artificial-Reason-WP/js/buttons.js 3 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/uploads/2015/03/img241-360x240.jpg 17 http://voice.shahum.net/contact-us/
+/a-first-post-in-category-nature/index.html 1 -
+/wp-content/uploads/2015/03/maxis1.png 7 http://voice.shahum.net/site-map/
+/our-team/sheldon-cooper/ 1 http://voice.shahum.net/about-us/
+/wp-content/uploads/2015/03/e_img081-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w91-150x150.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/blog/ 6 -
+/profile-template/index.html 1 -
+/option-2-services/index.html 1 -
+/option-4-only-full-intro/ 8 -
+/wp-content/uploads/2015/03/sony1-150x150.png 5 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/shmedia/fonts/fontawesome-webfont.woff2 1 http://voice.shahum.net/wp-content/themes/shmedia/css/font-awesome.css
+/wp-content/themes/Artificial-Reason-WP/js/jquery.bxslider.min.js 3 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/themes/Artificial-Reason-WP/style.css 1 http://voice.shahum.net/products-and-routing-plans/
+/contents-box/index.html 1 -
+/wp-content/uploads/2015/03/e_product51-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_product41-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/headers/index.html 1 -
+/choose-places-to-visit-this-holiday-season/ 11 -
+/labels-and-badges/ 1 -
+/register/index.html 1 -
+/wp-content/uploads/2013/11/91-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img121-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2013/11/61.jpg 1 -
+/products/index.html 1 -
+/wp-content/uploads/2015/03/anz1-150x150.png 6 http://voice.shahum.net/wp-admin/upload.php
+/support/index.html 1 -
+/wp-content/uploads/2015/03/e_img031-80x80.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/alerts-and-wells/index.html 1 -
+/wp-content/uploads/2015/03/img031.jpg 1 -
+/wp-content/uploads/2015/03/w61.jpg 7 -
+/paginations/ 1 -
+/components-dropdowns/css_typography.html 1 -
+/wp-content/uploads/2015/03/w101-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img151-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/css/width-full.css 2 http://voice.shahum.net/products-and-routing-plans/voicebuy-mix/
+/wp-content/uploads/2015/03/img121-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/category/sports/tennis-sports/index.html 1 -
+/wp-content/themes/shmedia/images/pinit.png 5 -
+/wp-content/uploads/2015/03/w13.jpg 7 http://voice.shahum.net/site-map/
+/wp-content/uploads/2015/03/e_img19.jpg 4 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/logo_raw_white1-150x150.png 2 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-17/index.html 1 -
+/wp-content/uploads/2013/11/151-80x80.jpg 18 http://voice.shahum.net/contact-us/
+/components-dropdowns/css_testimonials.html 1 -
+/how-it-works/index.html 1 -
+/blog-full/ 7 -
+/wp-content/uploads/2015/03/w71-150x150.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-12/ 1 -
+/wp-content/uploads/2015/03/e_img31.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/social-buttons/ 1 -
+/wp-content/uploads/2013/11/131-150x150.jpg 11 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w101-150x150.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/thumbnails/ 7 -
+/wp-content/uploads/2013/11/141-80x80.jpg 17 http://voice.shahum.net/contact-us/
+/wp-content/uploads/2015/03/wf11-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/lists/index.html 1 -
+/wp-content/uploads/2013/11/31-150x150.jpg 14 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img061-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/hp1.png 1 -
+/wp-content/uploads/2015/03/iphone1-300x200.png 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/js/jquery.cookie.js 2 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/uploads/2015/03/e_product21-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/avatar2301-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/t41.jpg 81 http://voice.shahum.net/about-us/
+/nadal-win-roland-garros/ 6 -
+/services/index.html 1 -
+/wp-content/uploads/2015/03/img231-360x240.jpg 17 http://voice.shahum.net/contact-us/
+/wp-content/uploads/2015/03/pre1-300x155.png 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_product21-300x300.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/css/buttons.css 2 http://voice.shahum.net/products-and-routing-plans/voicebuy-mix/
+/open-support-ticket/index.html 1 -
+/wp-content/uploads/2015/03/e_img031.jpg 1 -
+/wp-content/uploads/2015/03/office11.jpg 7 http://voice.shahum.net/site-map/
+/wp-content/uploads/2015/03/img071-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img051-150x150.jpg 8 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/100x1001-80x80.png 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img111.jpg 1 -
+/2014/04/ 8 -
+/about-us/fa-facebook 1 http://voice.shahum.net/about-us/
+/hello-world/index.html 1 -
+/option-6-professional-profile/ 7 -
+/wp-content/uploads/2015/03/profile1-80x80.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2013/11/131-760x405.jpg 1 -
+/wp-content/themes/Artificial-Reason-WP/js/wow.min.js 3 http://voice.shahum.net/artificial-reason-icons/
+/portfolio/portfolio-item-9/index.html 1 -
+/wp-content/uploads/2015/03/pre1-150x150.png 4 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/js/bootstrap-switch.min.js 3 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/uploads/2013/11/21-150x150.jpg 14 http://voice.shahum.net/wp-admin/upload.php
+/modals/index.html 1 -
+/portfolio-topbar-filters/ 10 -
+/tag/ 2 -
+/error-500-integrated/index.html 1 -
+/wp-content/uploads/2015/03/e_img171-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/san-francisco-the-city-to-close-big-business/index.html 1 -
+/wp-content/uploads/2015/03/t41-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/doc/img/marker.png 6 http://voice.shahum.net/contact-us/
+/wp-content/uploads/2015/03/w91-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/portfolio/portfolio-item-6/index.html 1 -
+/products-and-routing-plans/standard/index.html 1 -
+/blog-alternative/ 9 -
+/page/2/index.html 1 -
+/wp-content/uploads/2015/03/microsoft1-150x150.png 11 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img241.jpg 1 -
+/wp-content/uploads/2015/03/e_product51-300x300.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/alerts-and-wells/ 7 -
+/wp-content/uploads/2015/03/img101-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/img201-150x150.jpg 9 http://voice.shahum.net/wp-admin/upload.php
+/artificial-reason-icons/index.html 1 -
+/wp-content/uploads/2015/03/e_product41.jpg 1 -
+/wp-content/uploads/2015/03/img091-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/artificial-reason-icons/icons_glyph.html 1 -
+/wp-content/uploads/2015/03/img081-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/logo_big_white1.png 7 http://voice.shahum.net/wp-admin/upload.php
+/thumbnails/index.html 1 -
+/wp-content/uploads/2013/11/151-150x150.jpg 11 http://voice.shahum.net/wp-admin/upload.php
+/contact-us/index.html 1 -
+/player.vimeo.com/video/30196331 1 -
+/wp-content/uploads/2015/03/e_img151-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/Artificial-Reason-WP/js/jquery.countdown.min.js 3 http://voice.shahum.net/artificial-reason-icons/
+/wp-content/uploads/2015/03/microsoft1.png 7 http://voice.shahum.net/site-map/
+/portfolio/portfolio-item-18/index.html 1 -
+/sports-at-sea-a-great-choice-for-the-whole-family/ 6 -
+/contents-box/ 9 -
+/components-dropdowns/css_headers.html 1 -
+/testimonials/index.html 1 -
+/e-commerce-filters/index.html 1 -
+/wp-content/uploads/2015/03/e_img141-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/w111-150x150.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img051-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/office21-150x150.jpg 8 http://voice.shahum.net/wp-admin/upload.php
+/the-best-places-to-get-away-to-nature/index.html 1 -
+/2014/05/ 7 -
+/artificial-reason-icons/ 1 -
+/lists/ 9 -
+/category/nature/index.html 1 -
+/wp-content/uploads/2015/03/mac1.png 1 -
+/wp-content/themes/Artificial-Reason-WP/css/bootstrap.min.css 1 http://voice.shahum.net/products-and-routing-plans/
+/wp-content/themes/shmedia/css/img/button_right_over.jpg 5 http://voice.shahum.net/wp-content/themes/shmedia/css/style.css
+/wp-content/uploads/2015/03/wf41-300x200.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/register/ 4 -
+/login-integrated/ 7 -
+/wp-content/uploads/2015/03/e_img051-80x80.jpg 6 http://voice.shahum.net/wp-admin/upload.php
+/businesses-signed-big-cities/ 7 -
+/business-voip/index.html 1 -
+/the-final-of-the-champions-will-be-for-madrid/index.html 1 -
+/2013/11/ 1 -
+/f-a-q/index.html 1 -
+/wp-content/uploads/2015/03/e_img161-150x150.jpg 1 http://voice.shahum.net/wp-admin/upload.php
+/login-and-register/index.html 1 -
+/wp-content/uploads/2015/03/img131-150x150.jpg 10 http://voice.shahum.net/wp-admin/upload.php
+/panels/index.html 1 -
+/wp-content/uploads/2015/03/iphone1-150x150.png 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2013/11/21.jpg 1 -
+/wp-content/uploads/2015/03/img031-360x240.jpg 18 http://voice.shahum.net/contact-us/
+/wp-content/uploads/2015/03/w61-150x150.jpg 7 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/themes/shmedia/imgages/xls.jpg 1 http://voice.shahum.net/wp-content/themes/shmedia/css/style.css
+/portfolio/portfolio-item-22/index.html 1 -
+/vertical-tabs/ 6 -
+/dividers/ 6 -
+/wp-content/uploads/2013/11/121-150x150.jpg 12 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/e_img011-80x80.jpg 4 http://voice.shahum.net/wp-admin/upload.php
+/wp-content/uploads/2015/03/t21-150x150.jpg 13 http://voice.shahum.net/wp-admin/upload.php
+/tables/index.html 1 -
+/wp-content/uploads/2015/03/e_img111-80x80.jpg 2 http://voice.shahum.net/wp-admin/upload.php
+/buttons-library/ 1 -
+/carrier-services/index.html 1 -
+/carousels/ 6 -
+/wp-content/uploads/2015/03/t61.jpg 83 http://voice.shahum.net/about-us/
+/wp-admin/undefined 5 http://voice.shahum.net/wp-admin/themes.php
+/wp-content/themes/Artificial-Reason-WP/css/slidebars.css 2 http://voice.shahum.net/products-and-routing-plans/voicebuy-mix/
+/time-to-go-to-the-forest-relax-in-a-forest-dream/index.html 1 -
+/progress-bars/ 1 -
+/wp-content/themes/shmedia/css/img/xls.jpg 20 http://voice.shahum.net/wp-content/themes/shmedia/css/style.css
+/category/products-and-services/ 2 http://voice.shahum.net/wp-admin/edit-tags.php
+/portfolio/portfolio-item-19/index.html 1 -
+/forms/index.html 1 -
+/wp-content/themes/shmedia/images/google.png 5 -
+/coming-soon/ 10 -
+/wp-content/uploads/2013/11/81.jpg 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+109.75.35.142 10943 46501 164669790 20150727172727
+54.85.133.104 230 230 2218548 20150727205225
+212.34.249.146 145 388 8513758 20150727172224
+178.160.166.138 13 93 2518181 20150726183841
+37.157.223.6 6 81 1154906 20150721212855
+104.131.55.15 6 6 41799 20150724103810
+178.160.160.134 4 31 1612481 20150721224257
+178.62.70.185 4 4 29004 20150724103913
+46.244.243.94 4 4 103658 20150727221722 20150727221720 /standard_vardan52/
+46.101.139.208 4 4 27209 20150724104753
+66.249.81.217 1 4 598131 20150721145558
+66.249.81.211 0 2 461815 
+155.94.170.28 1 1 5633 20150721134439
+69.114.178.57 2 30 1281944 20150727215602 20150727215602 /wp-content/themes/shmedia/fonts/fontawesome-webfont.woff
+113.183.64.124 1 1 5456 20150721113207
+70.39.246.37 3 3 9368 20150721094150
+31.132.177.15 1 1 3677 20150713133558
+173.208.249.117 1 1 65027 20150714200953
+66.249.81.214 1 2 137711 20150727160814
+69.12.79.248 1 1 7243 20150724110640
+23.27.241.100 1 1 7251 20150724104258
+188.166.74.29 2 2 14502 20150724105544
+107.158.43.249 1 1 7304 20150724101739
+112.5.54.100 1 1 5456 20150721095521
+171.80.153.168 1 1 3087 20150713131908
+107.158.43.168 1 1 7214 20150724103441
+66.249.93.250 1 8 180157 20150727153227
+23.27.21.68 1 1 7251 20150724104729
+66.249.93.129 3 10 251406 20150727143017
+63.141.232.154 1 1 5098 20150717134928
+112.236.16.179 1 1 7251 20150724100118
+192.69.254.170 1 1 7214 20150724100426
+172.85.105.187 1 1 7249 20150723143031
+128.199.137.239 2 2 14502 20150724100807
+66.249.93.253 3 13 742239 20150727142952
+172.85.103.155 1 1 5456 20150721130503
+54.91.137.217 3 3 18251 20150723141545
+50.118.189.184 1 1 7334 20150724112936
+91.200.12.65 4 4 21318 20150713170001
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20150713 933 2494 28714848 7
+20150714 1276 3259 21715060 3
+20150715 875 4560 16507676 12
+20150716 819 3480 7832429 15
+20150717 1432 4991 13225919 12
+20150718 4 4 7786 2
+20150719 20 20 38930 10
+20150720 1480 5708 11958530 13
+20150721 1410 7348 17656174 24
+20150722 1219 5387 16483725 13
+20150723 925 4198 12415951 7
+20150724 637 4587 14831677 21
+20150725 16 16 165944 8
+20150726 29 109 2684125 9
+20150727 326 1281 20546105 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 14
+5mn-15mn 6
+30s-2mn 2
+15mn-30mn 4
+0s-30s 142
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 157
+/wp-admin/admin-ajax.php 6118 4333407 1 9
+/ 684 4268835 47 37
+/wp-admin/post.php 566 15197844 1 0
+/wp-content/themes/shmedia/fonts/fontawesome-webfont.woff2 552 1140961 0 3
+/wp-admin/load-scripts.php 394 28230477 0 0
+/category/whats-new/ 273 1359789 0 0
+/feed/ 235 2237621 114 113
+/wp-admin/edit.php 222 3517125 0 0
+/about-us/ 213 1215063 0 0
+/f-a-q/ 205 1109273 1 1
+/option-5-news/ 1 9797 0 0
+/font-awesome/ 1 16412 0 0
+/blockquotes/ 1 8791 0 0
+/wp-admin/post-new.php 80 1820681 0 0
+/wp-content/themes/shmedia/fonts/fontawesome-webfont.woff 8 574528 0 0
+/wp-admin/index.php 2 22023 0 0
+/option-2-services/ 2 23256 0 0
+/wp-admin/async-upload.php 43 43060 0 0
+/wp-admin/install.php 5 10275 0 0
+/modals/ 1 10096 0 0
+/services/ 1 8454 0 0
+/blog-full/ 2 18361 0 0
+/the-best-cities-to-visit-this-vacation/ 1 9824 0 0
+/products-and-routing-plans/premium/ 147 1829384 0 1
+/social-buttons/ 1 10839 0 0
+/faq-option-1/ 2 18988 0 0
+/about-us-team/ 6 56300 0 0
+/calling-cards/ 11 56785 0 0
+/thumbnails/ 1 9890 0 0
+/test-3/ 1 5472 0 0
+/tag/tag_2/ 7 28877 0 1
+/form/ 30 189524 0 0
+/wp-admin/about.php 3 27867 0 0
+/standard_vardan52/ 1 23341 0 0
+/tooltip-popover/ 1 8871 0 0
+/test-2/ 1 7159 0 0
+/test/ 3 17955 0 0
+/test-1/ 2 10969 0 0
+/portfolio/portfolio-item-19/ 1 8254 0 0
+/portfolio-sidebar-filters/ 2 18747 0 0
+/wp-admin/import.php 5 31857 0 0
+/wp-content/themes/Artificial-Reason-WP/fonts/fontawesome-webfont.woff2 57 285240 0 0
+/business-voip/ 6 28170 0 0
+/testimonials/ 17 97637 0 0
+/wp-admin/customize.php 11 153204 0 0
+/wp-login.php 25 58377 0 0
+/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.woff 2 24299 0 0
+/tag/tag_3/ 4 20454 0 0
+/test-4/ 15 89111 0 0
+/voicebuy-mobile-dialer/ 13 62645 1 0
+/2015/07/13/hello-world/ 1 7002 0 0
+/tables/ 1 11112 0 0
+/test-5/feed/ 1 985 0 0
+/option-1-home-default/ 6 67471 0 0
+/how-it-works/ 40 261723 1 0
+/sip-trunk-provider/ 1 4406 0 0
+/wp-admin/theme-install.php 4 39227 0 0
+/small-business-voip/ 1 6190 0 0
+/option-7-subscribe/ 1 10075 0 0
+/profile-2/ 4 31588 0 0
+/wp-admin/media-upload.php 21 69602 0 0
+/cart/ 3 22666 0 0
+/option-6-professional-profile/ 2 22857 0 0
+/wp-admin/plugin-install.php 22 252463 0 0
+/switch-controls/ 2 16189 0 0
+/headers/ 1 9625 0 0
+/open-support-ticket/ 5 27001 0 0
+/wp-admin/profile.php 1 8586 0 0
+/portfolio-topbar-filters/ 1 9332 0 0
+/support/ 5 23879 0 0
+/wp-admin/update.php 10 63429 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff 1 65759 0 0
+/wp-content/plugins/revslider/css/font/egfont.woff 12 68870 0 0
+/know-the-best-deals-on-getaway-for-the-weekend/ 1 11444 0 0
+/glossary/ 39 222657 0 0
+/wp-content/plugins/revslider/rs-plugin/css/captions.php 2 3179 0 0
+/voip-carrier-switch-partitioning-solution/ 9 47958 0 1
+/blog-alternative/ 1 11154 0 0
+/basic-buttons/ 4 33919 0 0
+/wp-admin/themes.php 38 401029 1 1
+/alerts-and-wells/ 2 19501 0 0
+/home/feed/ 1 825 0 1
+/what-is-voip/ 18 122489 0 0
+/wp-admin/options-general.php 5 48058 0 0
+/tag/tag_1/ 27 139088 0 0
+/about-us-option-1/ 3 24112 0 0
+/wp-admin/load-styles.php 165 12641332 0 0
+/social-icons/ 2 20046 0 0
+/site-map/ 19 183017 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 14 27654 0 0
+/wp-admin/tools.php 2 16463 0 0
+/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.woff 1 61631 0 0
+/wp-admin/ 12 148015 1 0
+/privacy-and-return-policy/ 13 80140 0 0
+/portfolio/portfolio-item-22/ 1 8233 0 0
+/test-5/ 63 308453 2 2
+/blog-left-sidebar/ 1 10897 0 0
+/wp-admin/plugins.php 76 707120 0 0
+/products-and-routing-plans/premium-2/ 3 19286 0 0
+/option-3-full-intro/ 1 10024 0 0
+/reseller-program/ 5 23802 0 0
+/contents-box/ 2 18998 1 0
+/did-numbers/ 50 310605 0 0
+/panels/ 1 10181 0 0
+/glyphicons-icons/ 1 10685 0 0
+/wp-admin/widgets.php 6 67840 0 0
+/wp-admin/nav-menus.php 51 1171237 0 0
+/our-team-option-2/ 2 14261 0 0
+/wp-content/uploads/smile_fonts/Defaults/Defaults.woff 1 108097 0 0
+/collapses-tabs/ 3 38863 0 0
+/free-hosted-pbx/ 15 73991 1 1
+/products-and-routing-plans/standard/ 25 197294 0 0
+/typography/ 1 12239 0 0
+/product/ 1 7133 0 0
+/artificial-reason-icons/ 1 11244 0 0
+/lists/ 2 21619 0 0
+/portfolio-with-captions/ 2 18030 0 0
+/wp-admin/upload.php 50 617746 0 0
+/wp-content/plugins/revslider/rs-plugin/font/revicons.woff 13 15684 0 0
+/wp-content/themes/Artificial-Reason-WP/fonts/glyphicons-halflings-regular.woff2 4 36594 0 0
+/about-us-option-2/ 1 8590 0 0
+/carrier-services/ 2 10493 0 0
+/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.woff 1 26247 0 0
+/wp-admin/options-reading.php 5 37180 0 0
+/contact-us/ 134 706474 1 2
+/standard_vardan53/ 1 6719 0 0
+/wp-admin/admin.php 80 1883057 0 0
+/category/wholesale-voip-services/premium/ 1 5953 0 0
+/wp-admin/theme-editor.php 5 39950 0 0
+/wp-content/themes/Artificial-Reason-WP/fonts/socialglyphs-webfont.woff 1 7426 0 0
+/page/2/ 1 9544 0 0
+/wp-admin/edit-tags.php 36 379823 1 0
+/option-4-only-full-intro/ 1 3214 0 0
+/vertical-tabs/ 1 10930 0 0
+/terms-and-conditions/ 5 32257 0 0
+/wp-comments-post.php 1 1745 0 0
+/e-commerce-home/ 2 21066 0 0
+/dividers/ 1 9328 0 0
+/labels-and-badges/ 1 9075 0 0
+/wp-admin/options-permalink.php 6 44518 0 0
+/wp-content/themes/Artificial-Reason-WP/js/jquery.min.map 2 283902 0 0
+/buttons-library/ 5 44350 0 0
+/feedback/ 26 159148 0 0
+/carousels/ 2 20815 0 0
+/links/ 10 58958 0 0
+/products-and-routing-plans/ 137 636848 2 1
+/forms/ 2 18243 0 0
+/progress-bars/ 1 9925 0 0
+/category/products-and-services/ 1 2533 0 0
+/wp-admin/setup-config.php 4 6844 0 0
+/user-manuals/ 7 34325 0 0
+/wp-admin/edit-comments.php 1 12668 0 0
+/components-dropdowns/ 2 19173 0 0
+/paginations/ 2 18186 0 0
+/products-and-routing-plans/voicebuy-mix/ 16 94625 0 0
+/wp-admin/update-core.php 3 21290 0 0
+/products-and-routing-plans/premium+/ 4 20408 0 0
+END_SIDER

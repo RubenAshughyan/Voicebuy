@@ -1,0 +1,241 @@
+@media screen and (max-width: 1500px){
+    section.servicesHome .service a p
+    {
+        font-size: 14px;
+    }
+    section.AboutServices .service {
+        width: 25%;
+        padding: 22px 2px;
+    }
+}
+@media screen and (max-width: 1300px){
+    section.servicesHome .service
+    {
+        width: 30.666667%;
+        min-height: 152px;
+    }
+    section.AboutServices .service {
+        width: 33%;
+    }
+    .sidebarAllBlog
+    {
+        width: 95%;
+    }
+}
+@media screen and (max-width: 1200px){
+    .container
+    {
+        width: 100%;
+        padding: 0 30px;
+    }
+    ul#menu-top li a,
+    ul#menu-top li ul.sub-menu li a
+    {
+        font-size:14px
+    }
+}
+@media screen and (max-width: 1100px){
+    ul#menu-top li a
+    {
+        padding: 16px 15px;
+        font-size: 13px;
+    }
+    ul#menu-top li ul.sub-menu li a{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 1000px){
+    .TopMenu ul#menu-top li {
+        width: 100%;
+        float: none;
+    }
+    ul#menu-top
+    {
+        width: 100%;
+        display: none;
+    }
+    ul#menu-top li ul.sub-menu{
+        position: static;
+        display: none;
+        padding-left: 15px;
+        background-color: #0099DA;
+    }
+    .TopMenu .container
+    {
+        min-height: 30px;
+    }
+    .miniButton
+    {
+        height: 30px;
+        width: 50px;
+        float: right;
+        cursor: pointer;
+        margin-top: 7px;
+    }
+    .miniButton span
+    {
+        width: 100%;
+        height: 4px;
+        display: block;
+        margin: 5px 0;
+        background-color: #444444;
+    }
+    div#topMenu {
+        padding-top: 47px;
+    }
+    section.AboutServices .service {
+        width: 50%;
+    }
+    /*about*/
+    .teamPerson {
+        width: 46%;
+    }
+}
+@media screen and (max-width: 900px){
+    .signIn.right60 >div
+    {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    section.awards .awardsTop .awardsShadow,
+    section.awards .awardsTop h2,
+    section.awards .awardsTop .awardsShadow
+    {
+        width: 100%;
+    }
+    ul#menu-botoom li {
+        margin: 10px 0;
+        width: 50%;
+        text-align: center;
+    }
+    .social, .regLog {
+        display: inline-block;
+        float: none;
+    }
+    .rightBar {
+        text-align: center;
+        width: 100%;
+    }
+    .logo {
+        width: 100%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .logo img {
+        width: 170px;
+    }
+    section.faqsQu >.tabs, section.faqsQu >.popularQuestions
+    {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .blogPost .postContent .postText,
+    .blogPost .postContent .postImage
+    {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 800px){
+    .teamPerson {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .history,
+    .mission{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .line
+    {
+        display: none;
+    }
+    .sidebarAllBlog .blogCont
+    {
+        padding-right: 0;
+    }
+    .sidebarAllBlog .blogCont,
+    .sidebarAllBlog .blogSidebar
+    {
+        width: 100%;
+    }
+    .blogPost .postContent .postText
+    {
+        padding-left: 0;
+    }
+    .aboutLeft,.aboutRight
+    {
+        width: 100%;
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width: 700px){
+    .otherPages .otherPage {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 600px) {
+    section.AboutServices .service {
+        width: 100%;
+    }
+    section.awards .awards {
+        width: 30%;
+        margin-bottom: 22px;
+    }
+    .oneBlock .buttonsLog .oneSignUp,
+    .oneBlock .buttonsLog .oneTest
+    {
+        width: 100%;
+        margin: 10px 0;
+    }
+    section.right60
+    {
+        padding: 40px 30px;
+    }
+    #footer .top
+    {
+        padding: 0;
+    }
+    #footer .top li
+    {
+        width: 100%;
+    }
+    section.servicesHome .service {
+        width: 48%;
+    }
+    .social
+    {
+        display: none;
+    }
+    .postBottomRight {
+        float: right;
+        width: 100%;
+        padding: 5px;
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1000px)
+{
+    ul#menu-top li a:hover ~ ul,
+    ul#menu-top li ul:hover
+    {
+        display: block;
+    }
+    .miniButton
+    {
+        display: none;
+    }
+}
